@@ -44,7 +44,7 @@ A `Renderer` protocol and some functions so export a [markdown2clj](https://gith
   (italic [_ segment]))
 ```
 
-Implement example with the `HtmlRenderer`:
+Example of implementation with the `HtmlRenderer`:
 
 ```clj
 (defrecord HtmlRenderer []
