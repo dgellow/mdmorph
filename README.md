@@ -1,6 +1,6 @@
 # mdmorph
 
-A `Renderer` protocol and some functions so export a [markdown2clj](https://github.com/nilenso/markdown2clj) AST in various format.
+A `Renderer` protocol and some functions to export a [markdown2clj](https://github.com/nilenso/markdown2clj) AST in various format.
 
 [](dependency)
 ```clojure
